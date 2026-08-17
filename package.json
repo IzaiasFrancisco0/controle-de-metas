@@ -1,0 +1,23 @@
+{
+  "name": "controle-de-metas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzaiasFrancisco0/Controle-De-Metas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IzaiasFrancisco0/Controle-De-Metas/issues"
+  },
+  "homepage": "https://github.com/IzaiasFrancisco0/Controle-De-Metas#readme",
+  "description": "",
+  "dependencies": {
+    "@inquirer/prompts": "^8.5.2"
+  }
+}

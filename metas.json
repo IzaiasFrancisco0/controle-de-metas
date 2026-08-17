@@ -9,6 +9,10 @@
   },
   {
     "value": "comer bem",
-    "checked": false
+    "checked": true
+  },
+  {
+    "value": "Correr 5km por dia",
+    "checked": true
   }
 ]
